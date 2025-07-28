@@ -27,7 +27,14 @@ A simple and elegant stopwatch application built using **HTML**, **CSS**, and **
 ---
 
 ## 📂 Project Structure
-
+- main
+  - html file
+    - index.html
+  - css file
+    - style.css
+  - js file
+    - script.js
+  - readme.md
 
 
 ---
